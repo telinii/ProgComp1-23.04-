@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;  /* fonte do texto */
+    background-color: rgb(20, 33, 220);
+    display: flex; /* Usa o modelo FlexBox, conceito de caixa e para posicionamento */
+    justify-content: center; /* Centraliza na horizontal*/
+    height: 100vh; /* Altura da página em 100% | vh = vertical height*/
+    align-items: center; /* Centraliza na vertical*/
+}
+
+.container {
+    background-color: white;
+    padding: 20px; /* Espaçamento interno */
+    border-radius: 10px; /* Borda */
+    text-align: center; /* Texto centralizado */
+    box-shadow: 0 4px 8px; /* Sombra */
+}
+
+button {
+    background-color: rgb(23, 20, 220);
+    color: white;
+    border: none;
+    padding: 10px 20px; /* 10 abaixo e acima; 20 esquerda e direita */
+    border-radius: 20px;
+}
+
+button:hover { /* Ao passar o mouse em cima do botão */
+    background-color: rgb(12, 20, 138);
+}
+
+.foto {
+    border-radius: 50%; /* Borda */
+    width: 100px; /* Largura */
+    height: 100px; /* Altura */
+    margin-bottom: 10px; /* Espaçamento externo abaixo */
+}
