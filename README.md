@@ -1,7 +1,7 @@
 # PROGRAMAÇÃO DE COMPUTADORES I
 ## Projetos criados durante a disciplina de Programação de Computadores I da faculdade
 
-[Clique aqui](https://iccarvalho.github.io/ProgComp1/) para acessar o menu com os projetos, ou acesse-os diretamente pelos links abaixo:
+[Clique aqui](https://telinii.github.io/ProgComp1-23.04-/) para visualizar os projetos feitos:
 
 ### Projetos:
 - Cartão de Apresentação
