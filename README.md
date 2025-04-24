@@ -7,4 +7,4 @@
 - Cartão de Apresentação
   - [Acesse o projeto](https://telinii.github.io/ProgComp1-23.04-/Cartao/index.html)
 - Trote Solidário 2025
-   - [Acesse o projeto](https://iccarvalho.github.io/ProgComp1/trote/index.html)
+   - [Acesse o projeto](file:///C:/Users/Lucca%20Telini/OneDrive/Área%20de%20Trabalho/ProgComp1(23.04)/trote/index.html)
