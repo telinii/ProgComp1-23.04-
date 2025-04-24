@@ -1,5 +1,5 @@
 # PROGRAMAÇÃO DE COMPUTADORES I
-## Projetos criados durante a disciplina de Programação de Computadores I da faculdade
+## Projetos realizados durante o primeiro semestre 
 
 [Clique aqui](https://telinii.github.io/ProgComp1-23.04-/) para visualizar os projetos feitos:
 
